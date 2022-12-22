@@ -6,7 +6,7 @@ This app generates a self-introduction based on user inputs
 
 ### App Walk-though
 
-<img src="[IntroductionDemo.gif](https://imgur.com/a/6fP9r0n.gif)" width=200><br>
+<img src="https://imgur.com/a/6fP9r0n.gif" width=200><br>
 
 ### Required Features
 
